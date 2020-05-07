@@ -19,8 +19,8 @@ body {
 }
 
 .content-section {
-  padding-top: 7.5rem;
-  padding-bottom: 7.5rem;
+  padding-top: 5.5rem;
+  padding-bottom: 5.5rem;
 }
 
 .content-section-heading h2 {
@@ -380,6 +380,11 @@ em {
 .about {
   font-weight: 500;
   color: #886E68;
+}
+
+.portrait {
+  width: 100%;
+  border-radius: 26%;
 }
 
 #contact {
