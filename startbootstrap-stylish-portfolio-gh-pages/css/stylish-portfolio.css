@@ -20,7 +20,7 @@ body {
 
 .content-section {
   padding-top: 5.5rem;
-  padding-bottom: 5.5rem;
+  padding-bottom: 3.5rem;
 }
 
 .content-section-heading h2 {
@@ -385,12 +385,19 @@ em {
 .portrait {
   width: 100%;
   border-radius: 26%;
+  margin-bottom: 5vh;
 }
 
 #contact {
   background-color: #d8bfb6;
+  padding-bottom: 7vh;
 }
 
 .contact {
-  width: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+.m2 .freebirdFormviewerViewItemsItemItem {
+  background-color: red !important;
 }

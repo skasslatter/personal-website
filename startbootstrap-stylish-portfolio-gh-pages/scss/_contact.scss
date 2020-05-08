@@ -1,6 +1,13 @@
 #contact {
-  background-color: #d8bfb6
+  background-color: #d8bfb6;
+  padding-bottom: 7vh;
 }
 .contact {
-  width: 50%;
+  // width: 50%;
+  display: flex;
+  justify-content: center;
+}
+
+.m2 .freebirdFormviewerViewItemsItemItem {
+  background-color: red!important;
 }
