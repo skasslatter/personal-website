@@ -1,3 +1,3 @@
 # skasslatter.github.io
 
-Hi, this is my private website
+Hi, this is my personal website 😊
