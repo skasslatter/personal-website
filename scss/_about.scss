@@ -1,5 +1,5 @@
- h2 {
-  color: #423533!important;
+h2 {
+  color: #423533 !important;
 }
 
 em {
@@ -7,13 +7,18 @@ em {
   // color: #886E68;
 }
 
-.about{
+.about {
   font-weight: 500;
   color: #886E68;
 }
 
 .portrait {
-  width: 100%;
-  border-radius: 26%;
-  margin-bottom: 5vh;
+  display: flex;
+  align-items: center;
+
+  img {
+    width: 100%;
+    border-radius: 26%;
+    margin-bottom: 3vh;
+  }
 }
