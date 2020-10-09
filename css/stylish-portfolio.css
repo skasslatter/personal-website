@@ -432,7 +432,7 @@ em {
   padding-top: 1vh;
 }
 
-.iframe iframe {
+iframe {
   height: 76vh;
   width: 60vw;
 }
