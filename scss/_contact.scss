@@ -10,6 +10,11 @@
 
 .iframe {
   background-color: white;
-  max-width: min-content;
   padding-top: 1vh;
+
+  iframe {
+    height: 76vh;
+    width: 60vw;
+    //72, 78
+  }
 }
