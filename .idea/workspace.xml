@@ -39,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602161030508</updated>
-      <workItem from="1602161033702" duration="8439000" />
+      <workItem from="1602161033702" duration="9442000" />
     </task>
     <task id="LOCAL-00001" summary="Updated template">
       <created>1602171036691</created>
@@ -67,13 +67,25 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated style files" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="89" key="SettingsEditor" timestamp="1602170981128">
+    <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1602171250244">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602170981128" />
+    <state x="274" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1602171250244" />
+    <state x="144" y="79" key="DiffContextDialog" timestamp="1602171182239">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1602171182239" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1602243053019">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602243053019" />
     <state x="419" y="189" width="602" height="522" key="find.popup" timestamp="1602169464479">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="419" y="189" width="602" height="522" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1602169464479" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1602242528689">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1602242528689" />
   </component>
 </project>
