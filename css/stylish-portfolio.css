@@ -217,6 +217,10 @@ h6 {
   color: #d8bfb6 !important;
 }
 
+.logos {
+  height: 85px;
+}
+
 .callout {
   padding: 15rem 0;
   background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("../img/bg-callout.jpg");
