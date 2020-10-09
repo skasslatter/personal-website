@@ -12,6 +12,7 @@ html {
 
 body {
   font-family: 'Source Sans Pro';
+  font-size: 20px;
 }
 
 .btn-xl {
@@ -207,9 +208,17 @@ h6 {
   height: 7rem;
   width: 7rem;
   display: block;
-  line-height: 7.5rem;
+  line-height: 6.5rem !important;
   font-size: 2.25rem;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+#skills h2 {
+  color: #d8bfb6 !important;
+}
+
+.logos {
+  height: 85px;
 }
 
 .callout {
@@ -304,8 +313,9 @@ h6 {
   border-top: 5px solid rgba(216, 191, 183, 0.53);
 }
 
-.modal-body {
+.modal h6 {
   text-align: center;
+  margin-bottom: 2vh;
 }
 
 span {
@@ -398,9 +408,13 @@ em {
 }
 
 .portrait {
+  display: flex;
+  align-items: center;
+}
+
+.portrait img {
   width: 100%;
   border-radius: 26%;
-  margin-bottom: 5vh;
 }
 
 #contact {
@@ -415,8 +429,10 @@ em {
 
 .iframe {
   background-color: white;
-  max-width: -webkit-min-content;
-  max-width: -moz-min-content;
-  max-width: min-content;
   padding-top: 1vh;
+}
+
+.iframe iframe {
+  height: 76vh;
+  width: 60vw;
 }

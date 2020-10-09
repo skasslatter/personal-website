@@ -4,7 +4,15 @@
   height: 7rem;
   width: 7rem;
   display: block;
-  line-height: 7.5rem;
+  line-height: 6.5rem !important;
   font-size: 2.25rem;
   box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+}
+
+#skills h2 {
+  color: #d8bfb6 !important;
+}
+
+.logos {
+  height: 85px;
 }
