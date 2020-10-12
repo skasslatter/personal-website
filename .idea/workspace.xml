@@ -27,7 +27,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.HTML" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -39,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602161030508</updated>
-      <workItem from="1602161033702" duration="13504000" />
+      <workItem from="1602161033702" duration="18391000" />
     </task>
     <task id="LOCAL-00001" summary="Updated template">
       <created>1602171036691</created>
@@ -67,6 +67,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Updated style files" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602506296513">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1602506296513" />
     <state x="274" y="0" key="CommitChangelistDialog2" timestamp="1602171250244">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
@@ -75,18 +79,18 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="144" y="79" key="DiffContextDialog/0.0.1440.900@0.0.1440.900" timestamp="1602171182239" />
-    <state x="221" y="89" key="SettingsEditor" timestamp="1602243741083">
+    <state x="221" y="89" key="SettingsEditor" timestamp="1602502647575">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602243741083" />
+    <state x="221" y="89" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1602502647575" />
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1602251818069">
       <screen x="0" y="23" width="1440" height="803" />
     </state>
     <state x="100" y="100" width="1240" height="700" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1440.803@0.23.1440.803" timestamp="1602251818069" />
-    <state x="419" y="189" width="602" height="522" key="find.popup" timestamp="1602169464479">
+    <state x="419" y="189" width="602" height="522" key="find.popup" timestamp="1602491392348">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="419" y="189" width="602" height="522" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1602169464479" />
+    <state x="419" y="189" width="602" height="522" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1602491392348" />
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1602242528689">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
