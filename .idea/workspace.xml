@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93377707-6063-4809-b200-237995d10d91" name="Default Changelist" comment="Updated style files" />
+    <list default="true" id="93377707-6063-4809-b200-237995d10d91" name="Default Changelist" comment="Updated style files">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,7 +22,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -39,7 +41,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1602161030508</updated>
-      <workItem from="1602161033702" duration="21036000" />
+      <workItem from="1602161033702" duration="21534000" />
+      <workItem from="1602578636379" duration="1407000" />
     </task>
     <task id="LOCAL-00001" summary="Updated template">
       <created>1602171036691</created>
@@ -91,9 +94,10 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="419" y="189" width="602" height="522" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1602491392348" />
-    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1602242528689">
-      <screen x="0" y="0" width="1440" height="900" />
+    <state x="385" y="197" width="670" height="601" key="search.everywhere.popup" timestamp="1602517077579">
+      <screen x="0" y="23" width="1440" height="800" />
     </state>
     <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1602242528689" />
+    <state x="385" y="197" width="670" height="601" key="search.everywhere.popup/0.23.1440.800@0.23.1440.800" timestamp="1602517077579" />
   </component>
 </project>
