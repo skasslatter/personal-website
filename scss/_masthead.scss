@@ -10,6 +10,7 @@
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
+
   h1 {
     font-size: 4rem;
     margin: 0;
@@ -17,12 +18,28 @@
     // color: #35110D
     color: #423533
   }
-  
- 
+
+
   @media (min-width: 992px) {
     height: 100vh;
     h1 {
       font-size: 5.5rem;
     }
+  }
+}
+
+.social-link {
+  display: block;
+  height: 4rem;
+  width: 4rem;
+  line-height: 4.3rem;
+  font-size: 1.5rem;
+  background-color: $secondary;
+  transition: background-color 0.15s ease-in-out;
+  box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
+
+  &:hover {
+    background-color: darken($secondary, 10%);
+    text-decoration: none;
   }
 }
